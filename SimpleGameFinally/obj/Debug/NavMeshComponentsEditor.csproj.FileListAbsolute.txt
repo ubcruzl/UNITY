@@ -1,0 +1,2 @@
+C:\Users\Ubaldo\Documents\GitHub\UNITY\SimpleGameFinally\obj\Debug\NavMeshComponentsEditor.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\UNITY\SimpleGameFinally\obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache
